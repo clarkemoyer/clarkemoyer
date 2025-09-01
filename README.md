@@ -24,7 +24,7 @@ I'm a technology adoption specialist passionate about helping organizations embr
 
 - Accelerating the adoption of technology platforms that transform how charitable organizations operate
 - Implementing innovative solutions that streamline charitable giving processes and increase transparency
-- Driving technology adoption to connect donors with causes more effectively and amplify social good
+- Driving technology adoption to reduce costs and increase revenue for our supported non profits putting those dollars back into the charitable mission where it belongs
 - Leading the adoption of tools that reduce operational overhead, ensuring maximum funds reach those in need
 - Pioneering technology adoption strategies that address systemic issues in charitable sector efficiency
 
